@@ -6,6 +6,7 @@
 ---
 
 # 👋 About Me  
+I am pediredla Jaya suveer 
 I'm a dedicated **DevOps Engineer** with **5+ years of hands-on experience** building robust CI/CD pipelines, automating repetitive tasks, and optimizing software delivery processes.  
 I’m passionate about **Linux**, **Shell Scripting**, **Git**, and everything that enhances developer productivity and system reliability.
 
